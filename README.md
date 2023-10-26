@@ -1,6 +1,6 @@
 # Curso-Machine-Learning
 
-Carpeta: Día 1
+**Carpeta: Día 1**
 
 Archivos Dia 1
 ---
@@ -9,6 +9,8 @@ Archivos Dia 1
 02 - (José Sánchez) Jose Sanchez Bucles: Bucles for
 
 03 - (José Sánchez) Condicionales: Condicional if/else/elif
+
+**Carpeta: Día 2**
 
 Archivos Día 2
 ---
@@ -19,6 +21,8 @@ Archivos Día 2
 03 - (José Sánchez) Jose Sanchez SpaceX 3: SQL en Python
 
 04 - (José Sánchez) JoseSanchez_SpaceX_Data_Visualization: Práctica de representación de datos en una gráfica con pandas
+
+**Carpeta: Día 3**
 
 Archivos Día 3
 ---
