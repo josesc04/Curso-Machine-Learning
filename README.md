@@ -1,8 +1,6 @@
 # Curso-Machine-Learning
 
-**Carpeta: Día 1**
-
-Archivos Dia 1
+Archivos carpeta Dia 1
 ---
 01 - (José Sánchez) Ejercicio Jose Sanchez: Creación y manipulación de variables
 
@@ -10,9 +8,7 @@ Archivos Dia 1
 
 03 - (José Sánchez) Condicionales: Condicional if/else/elif
 
-**Carpeta: Día 2**
-
-Archivos Día 2
+Archivos carpeta Día 2
 ---
 01 - (José Sánchez) Jose Sanchez Pandas: Práctica con pandas
 
@@ -22,9 +18,7 @@ Archivos Día 2
 
 04 - (José Sánchez) JoseSanchez_SpaceX_Data_Visualization: Práctica de representación de datos en una gráfica con pandas
 
-**Carpeta: Día 3**
-
-Archivos Día 3
+Archivos carpeta Día 3
 ---
 01- (José Sánchez) Jose Sanchez Folium: Práctica con Folium con mapas
 
