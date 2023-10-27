@@ -25,3 +25,9 @@ Archivos carpeta Día 3
 02- (José Sánchez) Modelo de predicción inflación en Argentina Jose Sanchez: Modelo de predicción Prophet sobre la inflación en Argentina en el futuro
 
 03- (José Sánchez) Modelo predictivo 2 Jose Sanchez: Modelo predictivo sobre el precio de la vivienda en Boston en un futuro
+
+Archivos carpeta Día 4
+---
+01- (José Sánchez) Jose Sanchez Folium analitica SpaceX: Práctica de trazado de mapa con Folium
+
+02- (José Sánchez) Jose Sanchez ML Predicciones: Prácticas de predicciones con modelo de predicción  y matriz de confusión
